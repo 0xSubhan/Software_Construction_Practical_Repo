@@ -6,4 +6,3 @@ def my_function():
     print(x)
 
 greet("Subhan")
-my_function()
